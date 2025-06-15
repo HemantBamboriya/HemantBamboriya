@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dhakadhemant370@gamil.com**
 
-- 📄 Know about my experiences [file:///C:/Users/heman/Downloads/Edited%20Resume.pdf](file:///C:/Users/heman/Downloads/Edited%20Resume.pdf)
+
 
 - ⚡ Fun fact **🧠 I break things just to fix them better 😅 💻 I write code like I’m explaining it to my future self ☕ Chai > Coffee. Every time. No debate. 🎧 I code better with lo-fi beats and no notifications C++ was my first crush, but JavaScript is my current love 🧩 Debugging is 90% of my development workout 📚 I actually enjoy solving DSA problems (weird flex, I know 😜) 🏁 "npm start" is my morning ritual 💡 I can spend 2 hours optimizing code that runs in 2 seconds 👨‍💻 I treat my console.log like a diary sometimes**
 
